@@ -13,7 +13,7 @@
 ---
 
 ### 🛠️ Tech Stack  
-- **Languages:** Python, JavaScript, C++, Java, SQL  
+- **Languages:** C++, Python, JavaScript, Java, SQL  
 - **Frontend:** HTML, CSS, React, React Native, Next.js  
 - **Backend:** Node.js, Express.js, Flask  
 - **Databases:** PostgreSQL, MongoDB, Firebase  
